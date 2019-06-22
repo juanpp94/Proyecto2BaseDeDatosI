@@ -1,0 +1,6 @@
+id_status_catalog,status
+1,order created
+2,order placed
+3,items packed
+4,in transit
+5,delivered
