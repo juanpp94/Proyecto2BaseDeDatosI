@@ -1,11 +1,11 @@
-nombre,apellido,usuario,clave,tiempo_registro,correo,telefono,ciudad,direccion,direccion_de_entrega
-Matilda,Dearn,mdearn0,nQSrZuc,31/3/2019,mdearn0@php.net,+53 (293) 185-9493,San José de las Lajas,56378 Vahlen Lane,46 Mccormick Drive
-Bern,Regi,bregi1,gWOqg1E05Tqp,4/4/2019,bregi1@wikipedia.org,+44 (458) 405-3290,Sheffield,71 Main Plaza,912 Heffernan Place
-Edan,Haselden,ehaselden2,59ogf6noa,5/12/2018,ehaselden2@narod.ru,+504 (582) 224-5786,El Tablón,4 8th Court,156 Trailsway Trail
-Clo,Gillson,cgillson3,f5c4ty0odaCO,8/11/2018,cgillson3@edublogs.org,+31 (571) 482-9335,Leidschendam,4871 Waxwing Place,7 Hazelcrest Road
-Adamo,Stannas,astannas4,3n3eAe23,11/10/2018,astannas4@theglobeandmail.com,+52 (580) 292-1543,Manuel Cavazos Lerma,2 Hanover Junction,4253 Red Cloud Place
-Jemimah,Bebbington,jbebbington5,gpg2y9uuub,10/4/2019,jbebbington5@theglobeandmail.com,+30 (113) 344-8404,Zákynthos,0698 Bobwhite Center,7728 Esker Alley
-Blake,Ambroisin,bambroisin6,RiP9lK,29/7/2018,bambroisin6@cnbc.com,+86 (898) 113-8877,Gaoping,7 Moland Circle,6 Waubesa Alley
-Gwennie,Dunstone,gdunstone7,CPZvFUYeB,22/7/2018,gdunstone7@ask.com,+62 (603) 765-8167,Cipadung Timur,24 Thackeray Street,60452 Jenifer Parkway
-Laughton,Euston,leuston8,GCnBHCxP3,2/4/2019,leuston8@livejournal.com,+86 (739) 327-2598,Wuma,079 Mayfield Lane,60 Kingsford Parkway
-Renee,Le - Count,rlecount9,p23FRQt,13/12/2018,rlecount9@phpbb.com,+86 (248) 323-9846,Miao’ergou,08 Bluejay Center,46444 Bellgrove Court
+nombre,apellido,usuario,clave,tiempo_registro,codigo_confirmacion,correo,telefono,ciudad,direccion,direccion_entrega
+Nataline,Gadie,ngadie0,BWiPcfHn,25/7/2018,wLTaoFiLX,ngadie0@meetup.com,+359 985 432 4672,Akhtopol,0 Stang Lane,30 Pepper Wood Street
+Scotty,Serck,sserck1,P3uVXwjmr,5/8/2018,3GPYB44FGNJ,sserck1@ezinearticles.com,+62 284 128 8396,Ketapang,507 Dorton Park,96 Elmside Center
+Hana,Dalrymple,hdalrymple2,as1z1mqGl4F,16/8/2018,Sc5P5DVk9tWU,hdalrymple2@forbes.com,+33 811 168 5195,Alfortville,0820 Ronald Regan Trail,23 Dottie Avenue
+Mehetabel,Yabsley,myabsley3,iD8pRDS,26/9/2018,HKuMBul7Me,myabsley3@netvibes.com,+965 713 994 5359,Az Zawr,56 Independence Crossing,22 Fuller Trail
+Ronald,Nutley,rnutley4,Dys81iKLl,25/5/2019,cKB8f7,rnutley4@printfriendly.com,+44 825 898 0088,Wootton,02664 Kennedy Center,0459 Granby Street
+Nels,Gieraths,ngieraths5,bXMIoxn0,1/4/2019,lP948rZsf,ngieraths5@cnn.com,+62 878 404 6496,Kowang Utara,6076 Vidon Center,9 Summer Ridge Road
+Heidie,Iacapucci,hiacapucci6,gbcfV4UC1g,10/5/2019,nVsKvT,hiacapucci6@tripadvisor.com,+63 738 440 9228,Baras,60994 Sloan Trail,21 Macpherson Point
+Mandy,Unitt,munitt7,GltpbRp,27/9/2018,ZzZ1ta6I,munitt7@mapy.cz,+1 203 109 7205,Waterbury,28 Del Sol Terrace,232 Kim Road
+Glori,Britten,gbritten8,OyETsBO2,22/11/2018,bdEZbFvb0a,gbritten8@bloglines.com,+51 292 980 8969,Progreso,9 Eagle Crest Lane,9 Lillian Center
+Hewe,Grannell,hgrannell9,9I8y6Hg,3/10/2018,v1k8IV,hgrannell9@stanford.edu,+253 327 610 8019,Dikhil,21553 Melrose Road,4 Oneill Road

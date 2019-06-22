@@ -1,11 +1,11 @@
-id_clientes,nombre,apellido,usuario,clave,tiempo_registro,direccion,correo,telefono,ciudad,direccion_entrega
-1,Chiquia,Dottridge,cdottridge0,gTC0fcBW,20/12/2018,9 Huxley Trail,cdottridge0@i2i.jp,+355 (280) 931-9829,Fier,66253 Ronald Regan Court
-2,Irving,Godleman,igodleman1,oJI61Ao1VsT,27/5/2019,918 Valley Edge Crossing,igodleman1@ocn.ne.jp,+81 (617) 912-2476,Tsukawaki,35 Arkansas Point
-3,Walden,Whatford,wwhatford2,vHfK5LCtl0,26/1/2019,9 Basil Street,wwhatford2@salon.com,+46 (577) 880-2950,Tyresö,56983 Fairview Avenue
-4,Daffi,Burnet,dburnet3,9IY4Rg,4/12/2018,6244 Anhalt Parkway,dburnet3@army.mil,+353 (962) 291-7656,Old Kilcullen,69255 4th Way
-5,Glenine,Leirmonth,gleirmonth4,VT23XGSzW4,24/4/2019,7 Cascade Junction,gleirmonth4@diigo.com,+86 (808) 945-1773,Jiyizhuang,7667 Carberry Avenue
-6,Rollins,Maton,rmaton5,sDySwNe,16/10/2018,0 Summerview Court,rmaton5@free.fr,+81 (993) 222-9463,Himi,3220 Bartelt Circle
-7,Anastassia,McKevitt,amckevitt6,c1OW334QH,2/7/2018,46797 Hayes Alley,amckevitt6@wiley.com,+7 (537) 748-2975,Neftegorsk,06 Fulton Trail
-8,Mireille,Gatland,mgatland7,daIGSf,12/12/2018,30100 Lerdahl Road,mgatland7@hhs.gov,+62 (174) 830-1128,Garajati,062 Nancy Junction
-9,Yasmin,Minnis,yminnis8,lQXqjPEyfg,18/12/2018,6196 Acker Junction,yminnis8@zdnet.com,+351 (289) 973-6671,Pomar,6976 Lerdahl Street
-10,Carl,Dabell,cdabell9,BPeDnVFcFH,13/5/2019,9 Troy Park,cdabell9@shareasale.com,+225 (967) 907-9183,Sassandra,34094 Northport Alley
+id_clientes,nombre,apellido,usuario,clave,tiempo_registro,codigo_confirmacion,correo,telefono,ciudad,direccion,direccion_entrega
+1,Jonell,Gronou,jgronou0,MePkkClK,11/8/2018,1Wvxn6o,jgronou0@1688.com,+86 750 756 6456,Shixian,4 Gale Avenue,396 Pond Plaza
+2,Lissa,Prin,lprin1,yuHPxyzykTd,8/3/2019,xjM4FL,lprin1@cnn.com,+49 780 439 7704,Würzburg,483 Cottonwood Pass,2 Dunning Court
+3,Keven,Satcher,ksatcher2,sYzzeEcnBQW,20/7/2018,CO6Zzdivt91,ksatcher2@lulu.com,+82 497 732 7848,Hwado,30393 Sundown Plaza,728 Canary Street
+4,Eamon,Lucey,elucey3,7228fyQ,27/4/2019,NIxMoc62xH8C,elucey3@github.io,+66 885 197 8268,Ban Chang,25 Gerald Street,95300 7th Center
+5,Vernen,Nijssen,vnijssen4,v9NgI7,9/11/2018,BVD2HzDdzoHn,vnijssen4@amazon.co.jp,+375 576 418 3376,Hotsk,27 Clove Way,247 Myrtle Circle
+6,Lyndsay,Gauvin,lgauvin5,7o4XWM7ou3K,19/9/2018,6ARtMCLo2Dw,lgauvin5@spotify.com,+221 402 136 4052,Tiadiaye,4020 Summerview Parkway,169 Becker Junction
+7,Roxane,Di Bartolommeo,rdibartolommeo6,6pWaL8tDJ,25/8/2018,6f0bA8ZXy,rdibartolommeo6@wikia.com,+55 646 828 6676,Jucás,198 Thompson Point,62068 Hanson Street
+8,Jasmine,Nanelli,jnanelli7,kSOhevZ9m5d,21/12/2018,lfH0U0UrP,jnanelli7@sourceforge.net,+20 266 413 9302,Manfalūţ,53080 Hagan Drive,03 Buena Vista Street
+9,Dinnie,Dudgeon,ddudgeon8,TWH0rX,14/4/2019,SAqIemo,ddudgeon8@springer.com,+46 443 898 5163,Osby,2560 Burrows Street,20 Judy Pass
+10,Lemar,Moncreif,lmoncreif9,2fbcXvLRF,21/10/2018,lvEZPlES,lmoncreif9@jimdo.com,+261 769 169 5402,Anjepy,3705 Oak Valley Way,8917 Boyd Hill
