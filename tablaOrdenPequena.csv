@@ -1,11 +1,11 @@
-id_orden,tiempo_de_compra,detalles,direccion_de_entrega,calificacion_cliente,calificacion_empleado
-1,5/16/2019,Aenean fermentum. Donec ut mauris eget massa tempor convallis.,23 Kensington Street,3,1
-2,3/28/2019,"In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc.",89667 Eagle Crest Court,1,2
-3,6/16/2019,"Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula.",2371 Moose Road,3,3
-4,11/6/2018,Aenean sit amet justo.,057 Sycamore Junction,5,4
-5,10/15/2018,Etiam vel augue.,0553 Barby Crossing,5,1
-6,5/23/2019,Ut at dolor quis odio consequat varius. Integer ac leo.,093 Debs Lane,2,2
-7,1/20/2019,Nam nulla.,9842 Norway Maple Hill,2,2
-8,3/28/2019,Integer ac leo. Pellentesque ultrices mattis odio.,429 Sugar Court,1,2
-9,3/14/2019,Etiam vel augue. Vestibulum rutrum rutrum neque.,1 Ryan Point,5,1
-10,6/22/2019,Pellentesque ultrices mattis odio. Donec vitae nisi.,8378 Birchwood Lane,1,5
+id_orden,tiempo_de_compra,detalles,direccion_de_entrega,calificacion_cliente,calificacion_usuario
+1,23/3/2019,Pauwel,dpauwel0@aboutads.info,Male,129.85.75.157
+2,4/3/2019,Lomaz,jlomaz1@tumblr.com,Male,84.218.90.109
+3,8/5/2019,Stoop,cstoop2@state.tx.us,Male,75.97.179.92
+4,20/8/2018,Trotman,jtrotman3@histats.com,Male,29.136.196.81
+5,19/11/2018,Paish,cpaish4@smugmug.com,Female,17127240114
+6,9/4/2019,Oxtoby,aoxtoby5@bloglovin.com,Female,159.1.95.114
+7,9/3/2019,Hurcombe,khurcombe6@last.fm,Male,121.66.206.27
+8,4/5/2019,Sarfas,lsarfas7@abc.net.au,Female,64.56.159.44
+9,15/10/2018,Gittus,ggittus8@oakley.com,Male,53.96.182.44
+10,17/11/2018,McPeck,hmcpeck9@networkadvertising.org,Female,76.6.87.139
